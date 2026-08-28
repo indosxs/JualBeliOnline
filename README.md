@@ -254,4 +254,4 @@ Untuk pertanyaan dan support, silakan buat issue di GitHub repository.
 
 ---
 
-Dibuat dengan ❤️ menggunakan Next.js 15 dan teknologi modern
+Dibuat dengan oleh rizki menggunakan Next.js 15
